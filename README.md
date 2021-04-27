@@ -3,4 +3,4 @@ Data_Analysis
 
 1. Regression
   * Linear Regression - Ecommerce Customers Data Set
-  * Logistic Regression
+  * Logistic Regression - Titanic Data Set & Adverting Data Set
