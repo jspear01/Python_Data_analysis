@@ -2,5 +2,5 @@
 Data_Analysis
 
 1. Regression
-  * Linear Regression -Ecommerce Customers Data Set
+  * Linear Regression - Ecommerce Customers Data Set
   * Logistic Regression
