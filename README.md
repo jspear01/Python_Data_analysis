@@ -3,3 +3,4 @@ Data_Analysis
 
 1. Regression
   * Linear Regression
+  * Logistic Regression
