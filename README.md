@@ -1,4 +1,4 @@
-# Python_Data_Analysis
+# Python Data Analysis
 Data_Analysis
 
 1. Regression
