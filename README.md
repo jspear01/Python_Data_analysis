@@ -1,7 +1,7 @@
 # Python Data Analysis
-Data_Analysis
 
-1. Regression
+
+## 1. Regression
   * Linear Regression - Ecommerce Customers Data Set
      - Linear_Regression.ipynb & Ecommerce Customers
   * Logistic Regression - Titanic Data Set & Adverting Data Set
