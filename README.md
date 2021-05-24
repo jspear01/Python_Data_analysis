@@ -9,7 +9,7 @@
      - Logistic Regression Advertising.ipynb & advertising.csv
 
 ## 2. K-Nearest-Neighbors
-  * - KNN_Project_Data.ipynb
+  * KNN_Project_Data.ipynb
      
 ## 3. Decision-Trees-and-Random-Forest
   * Decision Trees and Random Forest Side Project.ipynb
