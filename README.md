@@ -1,4 +1,4 @@
-# Python Data Analysis
+# Python Machine Learning
 
 
 ## 1. Regression
