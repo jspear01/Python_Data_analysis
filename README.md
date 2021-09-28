@@ -4,8 +4,8 @@
 ## 1. Regression
   * Linear Regression - Ecommerce Customers Data Set
      - Linear_Regression.ipynb & Ecommerce Customers
-  * Logistic Regression - Titanic Data Set & Adverting Data Set <br />
-     [- LogisticRegression_Titanic_Data.ipynb & titanic_test.csv & titanic_train.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/LogisticRegression_Titanic_Data.ipynb)
+  * Logistic Regression - [Titanic Data Set & Adverting Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/LogisticRegression_Titanic_Data.ipynb) <br />
+     - LogisticRegression_Titanic_Data.ipynb & titanic_test.csv & titanic_train.csv
      - Logistic Regression Advertising.ipynb & advertising.csv
 
 ## 2. K-Nearest-Neighbors
