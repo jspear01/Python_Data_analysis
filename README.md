@@ -8,7 +8,7 @@
      - LogisticRegression_Titanic_Data.ipynb & titanic_test.csv & titanic_train.csv
      - Logistic Regression Advertising.ipynb & advertising.csv
 
-## 2. K-Nearest-Neighbors
+## [2. K-Nearest-Neighbors](https://github.com/jspear01/Python_Data_analysis/tree/main/K_Nearest_Neighbors)
   * [KNN_Project_Data.ipynb](https://github.com/jspear01/Python_Data_analysis/blob/main/K_Nearest_Neighbors/KNN_Project_Data.ipynb)
      
 ## 3. Decision-Trees-and-Random-Forest
