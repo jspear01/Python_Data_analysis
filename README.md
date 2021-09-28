@@ -2,7 +2,7 @@
 
 
 ## 1. Regression
-  * Linear Regression - Ecommerce Customers Data Set
+  * Linear Regression - [Ecommerce Customers Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/Logistic%20Regression%20Advertising.ipynb) <br />
      - Linear_Regression.ipynb & Ecommerce Customers
   * Logistic Regression - [Titanic Data Set & Adverting Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/LogisticRegression_Titanic_Data.ipynb) <br />
      - LogisticRegression_Titanic_Data.ipynb & titanic_test.csv & titanic_train.csv
