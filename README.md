@@ -12,7 +12,7 @@
   * [KNN_Project_Data.ipynb](https://github.com/jspear01/Python_Data_analysis/blob/main/K_Nearest_Neighbors/KNN_Project_Data.ipynb)
      
 ## [3. Decision-Trees-and-Random-Forest](https://github.com/jspear01/Python_Data_analysis/tree/main/DecisionTrees%26RandomForest)
-  [* Decision Trees and Random Forest Side Project.ipynb](https://github.com/jspear01/Python_Data_analysis/blob/main/DecisionTrees%26RandomForest/%20Decision%20Trees%20and%20Random%20Forest%20Side%20Project.ipynb)
-    - loan_data.csv
-  [* DecisionTrees&RandomForest_04072021.ipynb](https://github.com/jspear01/Python_Data_analysis/blob/main/DecisionTrees%26RandomForest/DecisionTrees%26RandomForest_04072021.ipynb)
-    - kyphosis.csv
+  [* Decision Trees and Random Forest Side Project.ipynb](https://github.com/jspear01/Python_Data_analysis/blob/main/DecisionTrees%26RandomForest/%20Decision%20Trees%20and%20Random%20Forest%20Side%20Project.ipynb)<br />
+    [- loan_data.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/DecisionTrees%26RandomForest/loan_data.csv)
+  [* DecisionTrees&RandomForest_04072021.ipynb](https://github.com/jspear01/Python_Data_analysis/blob/main/DecisionTrees%26RandomForest/DecisionTrees%26RandomForest_04072021.ipynb)<br />
+    [- kyphosis.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/DecisionTrees%26RandomForest/kyphosis.csv)
