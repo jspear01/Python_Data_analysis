@@ -2,7 +2,7 @@
 
 
 ## [1. Regression](https://github.com/jspear01/Python_Data_analysis/tree/main/Regression)
-  * Linear Regression - [Ecommerce Customers Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/Linear_Regression.ipynb) <br />
+  * Linear Regression with [Ecommerce Customers company](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/Linear_Regression.ipynb) <br />
      - Linear_Regression with [Ecommerce Customers Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/Ecommerce%20Customers)
   * Logistic Regression - [Titanic Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/LogisticRegression_Titanic_Data.ipynb) & [Adverting Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/Logistic%20Regression%20Advertising.ipynb) <br />
      - LogisticRegression_Titanic - Survival Rate with [titanic_test.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/titanic_test.csv) & [titanic_train.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/titanic_train.csv)
