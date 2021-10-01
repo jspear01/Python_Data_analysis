@@ -11,7 +11,7 @@
      - Linear_Regression with [Ecommerce Customers Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/Ecommerce%20Customers)
   * Logistic Regression - [Titanic Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/LogisticRegression_Titanic_Data.ipynb) & [Adverting Data Set](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/Logistic%20Regression%20Advertising.ipynb) <br />
      - LogisticRegression_Titanic - Survival Rate with [titanic_test.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/titanic_test.csv) & [titanic_train.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/titanic_train.csv)
-     - Logistic Regression with [Advertising Data](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/advertising.csv)
+     - Logistic Regression with [AdvertisingData.csv](https://github.com/jspear01/Python_Data_analysis/blob/main/Regression/advertising.csv)
 
 ## [2. K-Nearest-Neighbors](https://github.com/jspear01/Python_Data_analysis/tree/main/K_Nearest_Neighbors)
   * [KNN_Project_Data.ipynb](https://github.com/jspear01/Python_Data_analysis/blob/main/K_Nearest_Neighbors/KNN_Project_Data.ipynb)
