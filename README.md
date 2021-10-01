@@ -1,7 +1,8 @@
 # Python Exploratory Data Analysis
 
 ## 1. [H1B_Data Set](https://www.kaggle.com/haiderali20/h1b-visas-2015-2019/data) H1b visas 2015-2019 - from Kaggle
-  [* Exploratory Data Analysis with H1b Data](https://github.com/jspear01/Python_Data_analysis/blob/main/H1B_Data_EDA.ipynb)
+  * [Exploratory Data Analysis with H1b Data](https://github.com/jspear01/Python_Data_analysis/blob/main/H1B_Data_EDA.ipynb)
+  * [Tableau Visualization](https://public.tableau.com/app/profile/jun.song/viz/H1b_Top15_Wages/Dashboard1)
   
 # Python Machine Learning
 
